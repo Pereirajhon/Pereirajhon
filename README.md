@@ -13,8 +13,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjd/nextjs-original.svg">
-  <img align="center" alt="styled" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-original.svg">
+  <img align="center" alt="Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="styled" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original.svg">
 </div>
  
  <br>
