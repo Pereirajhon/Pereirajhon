@@ -15,7 +15,8 @@
   <img align="center" alt="Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="styled" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="reactQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-query/react-query-original.svg">
+  <img align="center" alt="styled" height="30" width="40"       src="https://camo.githubusercontent.com/2efb38828ccd5a6416c1df1c9560f3f882cecddd4f9b6289bec28bd665aa1572/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337343130342f7374796c65642e737667">
+  
 </div>
  
  <br>
